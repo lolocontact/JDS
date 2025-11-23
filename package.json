@@ -1,0 +1,29 @@
+{
+  "name": "jds",
+  "version": "1.0.0",
+  "description": "Web app to play online games.",
+  "keywords": [
+    "vuejs",
+    "express",
+    "socket",
+    "game",
+    "online",
+    "rekkylaws",
+    "lolocontact"
+  ],
+  "homepage": "https://github.com/lolocontact/JDS#readme",
+  "bugs": {
+    "url": "https://github.com/lolocontact/JDS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolocontact/JDS.git"
+  },
+  "license": "ISC",
+  "author": "rekkylaws & lolocontact",
+  "type": "commonjs",
+  "main": "*",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
